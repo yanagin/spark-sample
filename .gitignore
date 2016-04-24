@@ -45,3 +45,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+.classpath
+target/spark-sample-1.0.jar
+target/classes/orz/yanagin/spark_sample/ParameterSample.class
+target/maven-archiver/pom.properties
+target/classes/orz/yanagin/spark_sample/JsonSample.class
+.project
+target/classes/orz/yanagin/spark_sample/HelloWorld.class
+target/classes/orz/yanagin/spark_sample/JsonTransformer.class
