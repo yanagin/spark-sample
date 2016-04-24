@@ -53,3 +53,4 @@ target/classes/orz/yanagin/spark_sample/JsonSample.class
 .project
 target/classes/orz/yanagin/spark_sample/HelloWorld.class
 target/classes/orz/yanagin/spark_sample/JsonTransformer.class
+*.class
